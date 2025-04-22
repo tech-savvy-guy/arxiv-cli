@@ -1,0 +1,9 @@
+openai
+requests
+feedparser
+scikit-learn
+python-dotenv
+typer[all]
+rich
+keyboard
+webbrowser
